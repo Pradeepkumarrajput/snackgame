@@ -1,2 +1,3 @@
 # snackgame
-Snack game hai bhaiyo
+#Snack game hai bhaiyo
+print("hello")
